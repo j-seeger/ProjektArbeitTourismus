@@ -1,4 +1,4 @@
-<!Element Regierungsbezirk (BezirkName, Kreis+)>
+<!Element Regierungsbezirk (BezirkName,Kreis+)>
 <!Element BezirkName (#PCDATA)>
 <!Element Kreis (KreisName, Gemeinde+)>
 <!Element KreisName (#PCDATA)>

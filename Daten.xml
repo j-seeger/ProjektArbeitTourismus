@@ -5,745 +5,741 @@
 <Regierungsbezirk>
 <BezirkName> Koeln </BezirkName>
 <Kreis>
-    <KreisName> Bonn </KreisName>
-    <Gemeinde xml:id='1'>
-        <Name>Bonn</Name>
-        <Gaesteanzahl veraenderung='+4' einheit='Prozent'>818221</Gaesteanzahl>
-        <Aufenthalstdauer einheit='Tage'>1.9</Aufenthalstdauer>
-        <Text>Die Stadt an beiden Ufern des Rheins war von 1949 bis 1990 provisorische Bundeshauptstadt und bis 1999 Regierungssitz der Bundesrepublik Deutschland, seither ist Bonn nur noch faktischer zweiter Regierungssitz Deutschlands.</Text>
-    </Gemeinde>
+<KreisName> Bonn </KreisName>
+<Gemeinde xml:id="1">
+<Name>Bonn</Name>
+<Gaesteanzahl veraenderung="+4" einheit="Prozent">818221</Gaesteanzahl>
+<Aufenthalstdauer einheit="Tage">1.9</Aufenthalstdauer>
+<Text>Die Stadt an beiden Ufern des Rheins war von 1949 bis 1990 provisorische Bundeshauptstadt und bis 1999 Regierungssitz der Bundesrepublik Deutschland, seither ist Bonn nur noch faktischer zweiter Regierungssitz Deutschlands.</Text>
+</Gemeinde>
 </Kreis>
 
 <Kreis>
 <KreisName> Dueren </KreisName>
-    <Gemeinde xml:id='2'>
-        <Name>Aldenhoven</Name>
-        <Gaesteanzahl veraenderung='+15,3%' einheit='Prozent'>1118</Gaesteanzahl>
-        <Aufenthaltsdauer einheit='Tage'>2,7</Aufenthaltsdauer>
-        <Text>In der Naehe der Stadt liegt der Blausteinsee. Er entstand durch die Auffuellung eines Tagebaurestlochs mit Wasser und ist heute ein beliebtes Naherholungsgebiet.</Text>
-    </Gemeinde>
+<Gemeinde xml:id="2">
+<Name>Aldenhoven</Name>
+<Gaesteanzahl veraenderung="+15,3" einheit="Prozent">1118</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">2,7</Aufenthaltsdauer>
+<Text>In der Naehe der Stadt liegt der Blausteinsee. Er entstand durch die Auffuellung eines Tagebaurestlochs mit Wasser und ist heute ein beliebtes Naherholungsgebiet.</Text>
+</Gemeinde>
 
-    <Gemeinde xml:id='3'>
-        <Name>Dueren</Name>
-        <Gaesteanzahl veraenderung='-3,8%' einheit='Prozent'>43931</Gaesteanzahl>
-        <Aufenthaltsdauer einheit='Tage'>1,7</Aufenthaltsdauer>
-        <Text>Dueren ist gepraegt von mehr als 1300 Jahren wechselvoller Geschichte und moderner Industrie.</Text>
-    </Gemeinde>
+<Gemeinde xml:id="3">
+<Name>Dueren</Name>
+<Gaesteanzahl veraenderung="-3,8" einheit="Prozent">43931</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">1,7</Aufenthaltsdauer>
+<Text>Dueren ist gepraegt von mehr als 1300 Jahren wechselvoller Geschichte und moderner Industrie.</Text>
+</Gemeinde>
 
-    <Gemeinde xml:id='4'>
-        <Name>Heimbach</Name>
-        <Gaesteanzahl veraenderung='+0,2%' einheit='Prozent'>38434</Gaesteanzahl>
-        <Aufenthaltsdauer einheit='Tage'>6,6</Aufenthaltsdauer>
-        <Text>Die Nationalparkstadt ist ein staatlich anerkannter Luftkurort.</Text>
-    </Gemeinde>
+<Gemeinde xml:id="4">
+<Name>Heimbach</Name>
+<Gaesteanzahl veraenderung="+0,2" einheit="Prozent">38434</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">6,6</Aufenthaltsdauer>
+<Text>Die Nationalparkstadt ist ein staatlich anerkannter Luftkurort.</Text>
+</Gemeinde>
 
-    <Gemeinde xml:id='5'>
-        <Name>Huertgenwald</Name>
-        <Gaesteanzahl veraenderung='-4,4%' einheit='Prozent'>19420</Gaesteanzahl>
-        <Aufenthaltsdauer einheit='Tage'>2,5</Aufenthaltsdauer>
-        <Text>DieGemeinde ist bekannt wegen der Schlacht im Huertgendwald am Ende des 2.Weltkriegs. Die Kaempfe um den Huertgenwald zaehlen zu den schwersten Kaempfen des Zweiten Weltkrieges ueberhaupt.</Text>
-    </Gemeinde>
+<Gemeinde xml:id="5">
+<Name>Huertgenwald</Name>
+<Gaesteanzahl veraenderung="-4,4" einheit="Prozent">19420</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">2,5</Aufenthaltsdauer>
+<Text>DieGemeinde ist bekannt wegen der Schlacht im Huertgendwald am Ende des 2.Weltkriegs. Die Kaempfe um den Huertgenwald zaehlen zu den schwersten Kaempfen des Zweiten Weltkrieges ueberhaupt.</Text>
+</Gemeinde>
 
-    <Gemeinde xml:id='6'>
-        <Name>Inden</Name>
-        <Gaesteanzahl veraenderung='' einheit='Prozent'>.</Gaesteanzahl>
-        <Aufenthaltsdauer einheit='Tage'>.</Aufenthaltsdauer>
-        <Text>.</Text>
-    </Gemeinde>
+<Gemeinde xml:id="6">
+<Name>Inden</Name>
+<Gaesteanzahl veraenderung="" einheit="Prozent">.</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">.</Aufenthaltsdauer>
+<Text>.</Text>
+</Gemeinde>
 
-    <Gemeinde xml:id='7'>
-        <Name>Juelich </Name>
-        <Gaesteanzahl veraenderung='+21,9%' einheit='Prozent'>35783</Gaesteanzahl>
-        <Aufenthaltsdauer einheit='Tage'>2,1</Aufenthaltsdauer>
-        <Text>Juelich entstand in roemischer Zeit als Strassenstation entlang der Roemerstrasse von Boulogne-sur-Mer nach Koeln (Via Belgica).</Text>
-    </Gemeinde>
+<Gemeinde xml:id="7">
+<Name>Juelich </Name>
+<Gaesteanzahl veraenderung="+21,9" einheit="Prozent">35783</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">2,1</Aufenthaltsdauer>
+<Text>Juelich entstand in roemischer Zeit als Strassenstation entlang der Roemerstrasse von Boulogne-sur-Mer nach Koeln (Via Belgica).</Text>
+</Gemeinde>
 
-    <Gemeinde xml:id='8'>
-        <Name>Kreuzau</Name>
-        <Gaesteanzahl veraenderung='+40,6%' einheit='Prozent'>6531</Gaesteanzahl>
-        <Aufenthaltsdauer einheit='Tage'>2,6</Aufenthaltsdauer>
-        <Text>Kreuzau liegt im Erholungsgebiet Rureifel und ist mit etwa 18.000 Einwohnern in gut 7.000 Haushalten die drittgroesste Gemeinde im Kreis Dueren in Nordrhein-Westfalen.</Text>
-    </Gemeinde>
+<Gemeinde xml:id="8">
+<Name>Kreuzau</Name>
+<Gaesteanzahl veraenderung="+40,6" einheit="Prozent">6531</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">2,6</Aufenthaltsdauer>
+<Text>Kreuzau liegt im Erholungsgebiet Rureifel und ist mit etwa 18.000 Einwohnern in gut 7.000 Haushalten die drittgroesste Gemeinde im Kreis Dueren in Nordrhein-Westfalen.</Text>
+</Gemeinde>
 
-    <Gemeinde xml:id='9'>
-        <Name>Langerwehe</Name>
-        <Gaesteanzahl veraenderung='' einheit='Prozent'>.</Gaesteanzahl>
-        <Aufenthaltsdauer einheit='Tage'>.</Aufenthaltsdauer>
-        <Text>.</Text>
-    </Gemeinde>
+<Gemeinde xml:id="9">
+<Name>Langerwehe</Name>
+<Gaesteanzahl veraenderung="" einheit="Prozent">.</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">.</Aufenthaltsdauer>
+<Text>.</Text>
+</Gemeinde>
 
-    <Gemeinde xml:id='10'>
-        <Name>Linnich </Name>
-        <Gaesteanzahl veraenderung='+15,9%' einheit='Prozent'>3243</Gaesteanzahl>
-        <Aufenthaltsdauer einheit='Tage'>1,7</Aufenthaltsdauer>
-        <Text>Die Stadt liegt genau in der Mitte zwischen den Staedten Moenchengladbach im Nordosten und Aachen im Suedwesten an der Rur. </Text>
-    </Gemeinde>
+<Gemeinde xml:id="10">
+<Name>Linnich </Name>
+<Gaesteanzahl veraenderung="+15,9" einheit="Prozent">3243</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">1,7</Aufenthaltsdauer>
+<Text>Die Stadt liegt genau in der Mitte zwischen den Staedten Moenchengladbach im Nordosten und Aachen im Suedwesten an der Rur. </Text>
+</Gemeinde>
 
-    <Gemeinde xml:id='11'>
-        <Name>Merzenich</Name>
-        <Gaesteanzahl veraenderung='' einheit='Prozent'>.</Gaesteanzahl>
-        <Aufenthaltsdauer einheit='Tage'>.</Aufenthaltsdauer>
-        <Text>.</Text>
-    </Gemeinde>
+<Gemeinde xml:id="11">
+<Name>Merzenich</Name>
+<Gaesteanzahl veraenderung="" einheit="Prozent">.</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">.</Aufenthaltsdauer>
+<Text>.</Text>
+</Gemeinde>
 
-    <Gemeinde xml:id='12'>
-        <Name>Nideggen </Name>
-        <Gaesteanzahl veraenderung='-1,2%' einheit='Prozent'>31897</Gaesteanzahl>
-        <Aufenthaltsdauer einheit='Tage'>2,5</Aufenthaltsdauer>
-        <Text>Nideggen liegt auf einer Bergkuppe unmittelbar oberhalb des mittleren Rurtales am Rande des Nationalparks Eifel in der Rureifel. </Text>
-    </Gemeinde>
+<Gemeinde xml:id="12">
+<Name>Nideggen </Name>
+<Gaesteanzahl veraenderung="-1,2" einheit="Prozent">31897</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">2,5</Aufenthaltsdauer>
+<Text>Nideggen liegt auf einer Bergkuppe unmittelbar oberhalb des mittleren Rurtales am Rande des Nationalparks Eifel in der Rureifel. </Text>
+</Gemeinde>
 
-    <Gemeinde xml:id='13'>
-        <Name>Niederzier</Name>
-        <Gaesteanzahl veraenderung='-4,3' einheit='Prozent'>3829</Gaesteanzahl>
-        <Aufenthaltsdauer einheit='Tage'>1,5</Aufenthaltsdauer>
-        <Text>Niederzier und Oberzier koennen bereits im 12. Jahrhundert nachgewiesen werden.</Text>
-    </Gemeinde>
+<Gemeinde xml:id="13">
+<Name>Niederzier</Name>
+<Gaesteanzahl veraenderung="-4,3" einheit="Prozent">3829</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">1,5</Aufenthaltsdauer>
+<Text>Niederzier und Oberzier koennen bereits im 12. Jahrhundert nachgewiesen werden.</Text>
+</Gemeinde>
 
-    <Gemeinde xml:id='14'>
-        <Name>Noervenich</Name>
-        <Gaesteanzahl veraenderung='' einheit='Prozent'>.</Gaesteanzahl>
-        <Aufenthaltsdauer einheit='Tage'>.</Aufenthaltsdauer>
-        <Text>.</Text>
-    </Gemeinde>
+<Gemeinde xml:id="14">
+<Name>Noervenich</Name>
+<Gaesteanzahl veraenderung="" einheit="Prozent">.</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">.</Aufenthaltsdauer>
+<Text>.</Text>
+</Gemeinde>
 
-    <Gemeinde xml:id='15'>
-        <Name>Titz</Name>
-        <Gaesteanzahl veraenderung='0' einheit='Prozent'>0</Gaesteanzahl>
-        <Aufenthaltsdauer einheit='Tage'>0</Aufenthaltsdauer>
-        <Text>Titz ist eine laendlich gepraegte Gemeinde im Norden des Kreises Dueren.</Text>
-    </Gemeinde>
+<Gemeinde xml:id="15">
+<Name>Titz</Name>
+<Gaesteanzahl veraenderung="0" einheit="Prozent">0</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">0</Aufenthaltsdauer>
+<Text>Titz ist eine laendlich gepraegte Gemeinde im Norden des Kreises Dueren.</Text>
+</Gemeinde>
 
-    <Gemeinde xml:id='16'>
-        <Name>Vettweiss</Name>
-        <Gaesteanzahl veraenderung='0' einheit='Prozent'>0</Gaesteanzahl>
-        <Aufenthaltsdauer einheit='Tage'>0</Aufenthaltsdauer>
-        <Text>In der landwirtschaftlich gepraegten Gemeinde gibt es etwa 110 denkmalgeschuetzte Bauwerke.</Text>
-    </Gemeinde>
-
+<Gemeinde xml:id="16">
+<Name>Vettweiss</Name>
+<Gaesteanzahl veraenderung="0" einheit="Prozent">0</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">0</Aufenthaltsdauer>
+<Text>In der landwirtschaftlich gepraegten Gemeinde gibt es etwa 110 denkmalgeschuetzte Bauwerke.</Text>
+</Gemeinde>
 </Kreis>
 
 <Kreis>
 <KreisName> Euskirchen </KreisName>
-    <Gemeinde xml:id='17'>
-        <Name>Bad Muenstereifel </Name>
-        <Gaesteanzahl veraenderung='-3,1' einheit='Prozent'>47964</Gaesteanzahl>
-        <Aufenthaltsdauer einheit='Tage'>2,1</Aufenthaltsdauer>
-        <Text>Bad Muenstereifel gilt als mittelalterliches Kleinod mit nahezu vollstaendig erhaltener restaurierter Stadtmauer.</Text>
-    </Gemeinde>
+<Gemeinde xml:id="17">
+<Name>Bad Muenstereifel </Name>
+<Gaesteanzahl veraenderung="-3,1" einheit="Prozent">47964</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">2,1</Aufenthaltsdauer>
+<Text>Bad Muenstereifel gilt als mittelalterliches Kleinod mit nahezu vollstaendig erhaltener restaurierter Stadtmauer.</Text>
+</Gemeinde>
 
 
-    <Gemeinde xml:id='18'>
-        <Name>Blankenheim</Name>
-        <Gaesteanzahl veraenderung='-5,3' einheit='Prozent'>46210</Gaesteanzahl>
-        <Aufenthaltsdauer einheit='Tage'>2,7</Aufenthaltsdauer>
-        <Text>Der Hauptort Blankenheim verfuegt als staatlich anerkannter Erholungsort ueber einen historischen Ortskern mit einer Anzahl bemerkenswerter Sehenswuerdigkeiten.</Text>
-    </Gemeinde>
+<Gemeinde xml:id="18">
+<Name>Blankenheim</Name>
+<Gaesteanzahl veraenderung="-5,3" einheit="Prozent">46210</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">2,7</Aufenthaltsdauer>
+<Text>Der Hauptort Blankenheim verfuegt als staatlich anerkannter Erholungsort ueber einen historischen Ortskern mit einer Anzahl bemerkenswerter Sehenswuerdigkeiten.</Text>
+</Gemeinde>
 
-    <Gemeinde xml:id='19'>
-        <Name>Dahlem</Name>
-        <Gaesteanzahl veraenderung='-17,7' einheit='Prozent'>31773</Gaesteanzahl>
-        <Aufenthaltsdauer einheit='Tage'>3,9</Aufenthaltsdauer>
-        <Text>Die Gemeinde hat jeweils die geringste Einwohnerzahl und Bevoelkerungsdichte aller Gemeinden von Nordrhein-Westfalen. </Text>
-    </Gemeinde>
+<Gemeinde xml:id="19">
+<Name>Dahlem</Name>
+<Gaesteanzahl veraenderung="-17,7" einheit="Prozent">31773</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">3,9</Aufenthaltsdauer>
+<Text>Die Gemeinde hat jeweils die geringste Einwohnerzahl und Bevoelkerungsdichte aller Gemeinden von Nordrhein-Westfalen. </Text>
+</Gemeinde>
 
-    <Gemeinde xml:id='20'>
-        <Name>Euskirchen </Name>
-        <Gaesteanzahl veraenderung='-9,9' einheit='Prozent'>34341</Gaesteanzahl>
-        <Aufenthaltsdauer einheit='Tage'>1,9</Aufenthaltsdauer>
-        <Text>Auf dem Stadtgebiet befinden sich insgesamt zwoelf Burgen, die auf der 45 Kilometer langen Euskirchener Burgenrunde von aussen besichtigt werden koennen.</Text>
-    </Gemeinde>
+<Gemeinde xml:id="20">
+<Name>Euskirchen </Name>
+<Gaesteanzahl veraenderung="-9,9" einheit="Prozent">34341</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">1,9</Aufenthaltsdauer>
+<Text>Auf dem Stadtgebiet befinden sich insgesamt zwoelf Burgen, die auf der 45 Kilometer langen Euskirchener Burgenrunde von aussen besichtigt werden koennen.</Text>
+</Gemeinde>
 
-    <Gemeinde xml:id='21'>
-        <Name>Hellenthal</Name>
-        <Gaesteanzahl veraenderung='-2,7' einheit='Prozent'>21697</Gaesteanzahl>
-        <Aufenthaltsdauer einheit='Tage'>2,5</Aufenthaltsdauer>
-        <Text>Die Gemeinde Hellenthal ist ueberregional bekannt durch die Oleftalsperre, das Wildgehege mit Greifvogelstation und das Besucherbergwerk Grube Wohlfahrt. </Text>
-    </Gemeinde>
+<Gemeinde xml:id="21">
+<Name>Hellenthal</Name>
+<Gaesteanzahl veraenderung="-2,7" einheit="Prozent">21697</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">2,5</Aufenthaltsdauer>
+<Text>Die Gemeinde Hellenthal ist ueberregional bekannt durch die Oleftalsperre, das Wildgehege mit Greifvogelstation und das Besucherbergwerk Grube Wohlfahrt. </Text>
+</Gemeinde>
 
-    <Gemeinde xml:id='22'>
-        <Name>Kall</Name>
-        <Gaesteanzahl veraenderung='+34,2' einheit='Prozent'>28132</Gaesteanzahl>
-        <Aufenthaltsdauer einheit='Tage'>2,3</Aufenthaltsdauer>
-        <Text>Kall liegt am Rande der Nordeifel im Dreieck zwischen Koeln, Aachen und Trier.</Text>
-    </Gemeinde>
+<Gemeinde xml:id="22">
+<Name>Kall</Name>
+<Gaesteanzahl veraenderung="+34,2" einheit="Prozent">28132</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">2,3</Aufenthaltsdauer>
+<Text>Kall liegt am Rande der Nordeifel im Dreieck zwischen Koeln, Aachen und Trier.</Text>
+</Gemeinde>
 
-    <Gemeinde xml:id='23'>
-        <Name>Mechernich </Name>
-        <Gaesteanzahl>.</Gaesteanzahl>
-        <Aufenthaltsdauer einheit='Tage'>.</Aufenthaltsdauer>
-        <Text>.</Text>
-    </Gemeinde>
-
-    <Gemeinde xml:id='24'>
-        <Name>Nettersheim</Name>
-        <Gaesteanzahl veraenderung='-3,6' einheit='Prozent'>19228</Gaesteanzahl>
-        <Aufenthaltsdauer einheit='Tage'>7,1</Aufenthaltsdauer>
-        <Text>Die Gemeinde Nettersheim wurde 1990 von der Deutschen Umwelthilfe als Bundeshauptstadt des Naturschutzes ausgezeichnet und unterhaelt in Nettersheim das Naturzentrum Nettersheim und das Holzkompetenzzentrum Nettersheim.</Text>
-    </Gemeinde>
-
-    <Gemeinde xml:id='25'>
-        <Name>Schleiden </Name>
-        <Gaesteanzahl veraenderung='-3,7' einheit='Prozent'>40757</Gaesteanzahl>
-        <Aufenthaltsdauer einheit='Tage'>3</Aufenthaltsdauer>
-        <Text>Der Ort war im Mittelalter und der fruehen Neuzeit Mittelpunkt einer Herrschaft, spaeter der Grafschaft Schleiden, die selbst Bestandteil des Herzogtums Luxemburg war.</Text>
-    </Gemeinde>
-
-<Gemeinde xml:id='26'>
-<Name>Weilerswist</Name>
+<Gemeinde xml:id="23">
+<Name>Mechernich </Name>
 <Gaesteanzahl>.</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>.</Aufenthaltsdauer>
+<Aufenthaltsdauer einheit="Tage">.</Aufenthaltsdauer>
 <Text>.</Text>
 </Gemeinde>
 
-<Gemeinde xml:id='27'>
+<Gemeinde xml:id="24">
+<Name>Nettersheim</Name>
+<Gaesteanzahl veraenderung="-3,6" einheit="Prozent">19228</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">7,1</Aufenthaltsdauer>
+<Text>Die Gemeinde Nettersheim wurde 1990 von der Deutschen Umwelthilfe als Bundeshauptstadt des Naturschutzes ausgezeichnet und unterhaelt in Nettersheim das Naturzentrum Nettersheim und das Holzkompetenzzentrum Nettersheim.</Text>
+</Gemeinde>
+
+<Gemeinde xml:id="25">
+<Name>Schleiden </Name>
+<Gaesteanzahl veraenderung="-3,7" einheit="Prozent">40757</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">3</Aufenthaltsdauer>
+<Text>Der Ort war im Mittelalter und der fruehen Neuzeit Mittelpunkt einer Herrschaft, spaeter der Grafschaft Schleiden, die selbst Bestandteil des Herzogtums Luxemburg war.</Text>
+</Gemeinde>
+
+<Gemeinde xml:id="26">
+<Name>Weilerswist</Name>
+<Gaesteanzahl>.</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">.</Aufenthaltsdauer>
+<Text>.</Text>
+</Gemeinde>
+
+<Gemeinde xml:id="27">
 <Name>Zuelpich </Name>
-<Gaesteanzahl veraenderung='+7,4' einheit='Prozent'>4290</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>6,1</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="+7,4" einheit="Prozent">4290</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">6,1</Aufenthaltsdauer>
 <Text>Die „Roemerstadt“ Zuelpich mit dem lateinischen Namen Tolbiacum existiert seit dem 1. Jahrhundert v. Chr. Die Schlacht von Zuelpich im Jahr 496 n. Chr. ist ein stehender Begriff in der europaeischen Geschichtsschreibung.</Text>
 </Gemeinde>
 </Kreis>
 
 <Kreis>
 <KreisName> Heinsberg </KreisName>
-<Gemeinde xml:id='28'>
+<Gemeinde xml:id="28">
 <Name>Erkelenz </Name>
-<Gaesteanzahl veraenderung='+8,4' einheit='Prozent'>14601</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>2,2</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="+8,4" einheit="Prozent">14601</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">2,2</Aufenthaltsdauer>
 <Text>Waehrend die Stadt auf mehr als 1000Â Jahre Geschichte und Tradition zurueckblickt, werden seit 2006 bis in das Jahr 2045 die oestlich gelegenen Teile des Stadtgebietes durch den Braunkohletagebau Garzweiler II der RWE Power AG abgetragen.</Text>
 </Gemeinde>
 
-<Gemeinde xml:id='29'>
+<Gemeinde xml:id="29">
 <Name>Gangelt</Name>
-<Gaesteanzahl veraenderung='-4,5' einheit='Prozent'>8435</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>2,4</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="-4,5" einheit="Prozent">8435</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">2,4</Aufenthaltsdauer>
 <Text>Der Ort mit seinem noch die spaetmittelalterliche, befestigte Kleinstadt widerspiegelnden Ortskern liegt an der Grenze zu den Niederlanden im aeussersten Westen der Bundesrepublik am Rande des Rodebachtales. </Text>
 </Gemeinde>
 
-<Gemeinde xml:id='30'>
+<Gemeinde xml:id="30">
 <Name>Geilenkirchen </Name>
-<Gaesteanzahl veraenderung='-8,6' einheit='Prozent'>5764</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>2,8</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="-8,6" einheit="Prozent">5764</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">2,8</Aufenthaltsdauer>
 <Text>Geilenkirchen liegt etwa 20Â km (Luftlinie) noerdlich von Aachen, mit der zum Stadtgebiet gehoerenden Teverener Heide unmittelbar an der niederlaendischen Grenze, am Suedostrand des Selfkant, im Tal der Wurm.</Text>
 </Gemeinde>
 
-<Gemeinde xml:id='31'>
+<Gemeinde xml:id="31">
 <Name>Heinsberg </Name>
-<Gaesteanzahl veraenderung='+10,3' einheit='Prozent'>12883</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>1,6</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="+10,3" einheit="Prozent">12883</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">1,6</Aufenthaltsdauer>
 <Text>Sehenswert in Heinsberg ist die spaetgotische Stiftskirche St. Gangolf, auch "Selfkant-Dom" genannt. </Text>
 </Gemeinde>
 
-<Gemeinde xml:id='32'>
+<Gemeinde xml:id="32">
 <Name>Hueckelhoven </Name>
-<Gaesteanzahl veraenderung='-0,4' einheit='Prozent'>13297</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>2,2</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="-0,4" einheit="Prozent">13297</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">2,2</Aufenthaltsdauer>
 <Text>Hueckelhoven verdankt dem Steinkohlenbergbau seine Entwicklung vom Dorf zur Stadt; 1914 wurde die Zeche Sophia-Jacoba eroeffnet. 1997 wurde diese Zeche (als letzte im Aachener Revier) geschlossen.</Text>
 </Gemeinde>
 
-<Gemeinde xml:id='33'>
+<Gemeinde xml:id="33">
 <Name>Selfkant</Name>
 <Gaesteanzahl>.</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>.</Aufenthaltsdauer>
+<Aufenthaltsdauer einheit="Tage">.</Aufenthaltsdauer>
 <Text>.</Text>
 </Gemeinde>
 
-<Gemeinde xml:id='34'>
+<Gemeinde xml:id="34">
 <Name>Ãœbach-Palenberg </Name>
-<Gaesteanzahl veraenderung='-0,9' einheit='Prozent'>3983</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>3,8</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="-0,9" einheit="Prozent">3983</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">3,8</Aufenthaltsdauer>
 <Text>Ãœbach-Palenberg ist eine an der Grenze zu den Niederlanden gelegene Stadt im nordrhein-westfaelischen Kreis Heinsberg. </Text>
 </Gemeinde>
 
-<Gemeinde xml:id='35'>
+<Gemeinde xml:id="35">
 <Name>Waldfeucht</Name>
 <Gaesteanzahl>.</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>.</Aufenthaltsdauer>
+<Aufenthaltsdauer einheit="Tage">.</Aufenthaltsdauer>
 <Text>.</Text>
 </Gemeinde>
 
-<Gemeinde xml:id='36'>
+<Gemeinde xml:id="36">
 <Name>Wassenberg </Name>
-<Gaesteanzahl veraenderung='+28,2' einheit='Prozent'>20794</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>2,2</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="+28,2" einheit="Prozent">20794</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">2,2</Aufenthaltsdauer>
 <Text>Das Stadtgebiet liegt teilweise im Tal der Rur, im uebrigen auf den Hochflaechen oberhalb des Rurtales auf dem Wassenberger Horst. Die Stadt ist etwa 15Â km von Roermond und etwa 25Â km von Moenchengladbach entfernt.</Text>
 </Gemeinde>
 
-<Gemeinde xml:id='37'>
+<Gemeinde xml:id="37">
 <Name>Wegberg </Name>
-<Gaesteanzahl veraenderung='+4,7' einheit='Prozent'>30515</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>2,8</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="+4,7" einheit="Prozent">30515</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">2,8</Aufenthaltsdauer>
 <Text>Unter dem Namen Berck wurde Wegberg erstmals in einer Urkunde des Kaisers Otto I. aus dem Jahre 966 erwaehnt.</Text>
 </Gemeinde>
 </Kreis>
 
 <Kreis>
 <KreisName> Koeln </KreisName>
-<Gemeinde xml:id='38'>
+<Gemeinde xml:id="38">
 <Name>Koeln</Name>
-<Gaesteanzahl veraenderung='-2,9' einheit='Prozent'>3346329</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>1.7</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="-2,9" einheit="Prozent">3346329</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">1.7</Aufenthaltsdauer>
 <Text>Koeln (koelsch Koelle) ist mit mehr als einer Million Einwohnern die bevoelkerungsreichste Stadt des Landes Nordrhein-Westfalen sowie nach Berlin, Hamburg und Muenchen die viertgroesste Stadt Deutschlands.</Text>
 </Gemeinde>
 </Kreis>
 
 <Kreis>
 <KreisName> Leverkusen </KreisName>
-<Gemeinde xml:id='39'>
+<Gemeinde xml:id="39">
 <Name>Leverkusen</Name>
-<Gaesteanzahl veraenderung='-2,1' einheit='Prozent'>133103</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>1.8</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="-2,1" einheit="Prozent">133103</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">1.8</Aufenthaltsdauer>
 <Text>Bekannt ist Leverkusen vor allem durch den Bayer-Konzern und den Fussball-Bundesligisten Bayer 04 Leverkusen.</Text>
 </Gemeinde>
 </Kreis>
 
 <Kreis>
 <KreisName> Oberbergischer Kreis </KreisName>
-<Gemeinde xml:id='40'>
+<Gemeinde xml:id="40">
 <Name>Bergneustadt</Name>
-<Gaesteanzahl veraenderung='-9' einheit='Prozent'>17863</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>2,2</Aufenthaltsdauer>
-<Text>Das Stadtgebiet von Bergneustadt wird durch grosse Nadel- und Mischwaldgebiete (53,4Â %)[3] und landwirtschaftliche Flaechen (22Â %)[3] gepraegt, die vor allem fuer die Viehhaltung genutzt werden.</Text>
+<Gaesteanzahl veraenderung="-9" einheit="Prozent">17863</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">2,2</Aufenthaltsdauer>
+<Text>Das Stadtgebiet von Bergneustadt wird durch grosse Nadel- und Mischwaldgebiete (53,4Â )[3] und landwirtschaftliche Flaechen (22Â )[3] gepraegt, die vor allem fuer die Viehhaltung genutzt werden.</Text>
 </Gemeinde>
 
 
-<Gemeinde xml:id='41'>
+<Gemeinde xml:id="41">
 <Name>Engelskirchen</Name>
-<Gaesteanzahl veraenderung='-7,9' einheit='Prozent'>13821</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>8,1</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="-7,9" einheit="Prozent">13821</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">8,1</Aufenthaltsdauer>
 <Text>Engelskirchen wurde als alte bergische Siedlung urkundlich erstmals im Jahr 1353 erstmals erwaehnt.</Text>
 </Gemeinde>
 
-<Gemeinde xml:id='42'>
+<Gemeinde xml:id="42">
 <Name>Gummersbach </Name>
-<Gaesteanzahl veraenderung='+1,1' einheit='Prozent'>58117</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>2,1</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="+1,1" einheit="Prozent">58117</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">2,1</Aufenthaltsdauer>
 <Text>Gummersbach wurde frueher auch als Lindenstadt bezeichnet, da Lindenbaeume die Hauptstrasse saeumten.</Text>
 </Gemeinde>
 
-<Gemeinde xml:id='43'>
+<Gemeinde xml:id="43">
 <Name>Hueckeswagen </Name>
-<Gaesteanzahl veraenderung='-23,2' einheit='Prozent'>11842</Gaesteanzahl>
+<Gaesteanzahl veraenderung="-23,2" einheit="Prozent">11842</Gaesteanzahl>
 
-<Aufenthaltsdauer einheit='Tage'>2,4</Aufenthaltsdauer>
+<Aufenthaltsdauer einheit="Tage">2,4</Aufenthaltsdauer>
 <Text>Durch Hueckeswagen fliesst die Wupper. Auf dem Stadtgebiet befinden sich zwei Talsperren, die Bevertalsperre und die Wuppertalsperre. Markant sind die enge Tallage der Stadt sowie der Schlossberg.</Text>
 </Gemeinde>
 
-<Gemeinde xml:id='44'>
+<Gemeinde xml:id="44">
 <Name>Lindlar</Name>
-<Gaesteanzahl veraenderung='+12,5' einheit='Prozent'>20964</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>2,6</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="+12,5" einheit="Prozent">20964</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">2,6</Aufenthaltsdauer>
 <Text>Die historischen Ortskerne von Lindlar, Hohkeppel und Linde sind sehenswert. Ausserdem stehen entlang der Wanderwege im Oberbergischen Land haeufig Wegekreuze und auch viele kleinere Kapellen. Viele Sehenswuerdigkeiten geniessen Denkmalschutz.</Text>
 </Gemeinde>
 
-<Gemeinde xml:id='45'>
+<Gemeinde xml:id="45">
 <Name>Marienheide</Name>
-<Gaesteanzahl veraenderung='+16,7' einheit='Prozent'>13578</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>2,2</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="+16,7" einheit="Prozent">13578</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">2,2</Aufenthaltsdauer>
 <Text>Marienheide war eigenstaendige Buergermeisterei bis 1931.</Text>
 </Gemeinde>
 
-<Gemeinde xml:id='46'>
+<Gemeinde xml:id="46">
 <Name>Morsbach</Name>
-<Gaesteanzahl veraenderung='' einheit='Prozent'>.</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>.</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="" einheit="Prozent">.</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">.</Aufenthaltsdauer>
 <Text>.</Text>
 </Gemeinde>
 
-<Gemeinde xml:id='47'>
+<Gemeinde xml:id="47">
 <Name>Nuembrecht</Name>
-<Gaesteanzahl veraenderung='-18,9' einheit='Prozent'>32417</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>4,3</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="-18,9" einheit="Prozent">32417</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">4,3</Aufenthaltsdauer>
 <Text>Nuembrecht liegt etwa 40 Kilometer oestlich von Koeln entfernt. </Text>
 </Gemeinde>
 
-<Gemeinde xml:id='48'>
+<Gemeinde xml:id="48">
 <Name>Radevormwald </Name>
-<Gaesteanzahl veraenderung='+0,1' einheit='Prozent'>28927</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>2,9</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="+0,1" einheit="Prozent">28927</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">2,9</Aufenthaltsdauer>
 <Text>Radevormwald bedeutet "Rodung vor dem Walde". Der aeltere Name Rotha steht fuer "Rodung". Die gerodete Lichtung auf dem 400Â m hohen Hoehenzug wurde angelegt, um im 6. und 7. Jahrhundert einen befestigten Ort gegen anstuermende Sachsen zu bauen.</Text>
 </Gemeinde>
 
-<Gemeinde xml:id='49'>
+<Gemeinde xml:id="49">
 <Name>Reichshof</Name>
-<Gaesteanzahl veraenderung='-11,5' einheit='Prozent'>7988</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>11,4</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="-11,5" einheit="Prozent">7988</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">11,4</Aufenthaltsdauer>
 <Text>In den 1960er Jahren wurde im heutigen Gebiet der Gemeinde Reichshof die Wiehltalsperre gebaut, die den suedlichen Teil des Oberbergischen Lands mit Trinkwasser versorgt und darueber hinaus auch ein Naturschutzgebiet ist. </Text>
 </Gemeinde>
 
-<Gemeinde xml:id='50'>
+<Gemeinde xml:id="50">
 <Name>Waldbroel </Name>
-<Gaesteanzahl veraenderung='' einheit='Prozent'>.</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>.</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="" einheit="Prozent">.</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">.</Aufenthaltsdauer>
 <Text>.</Text>
 </Gemeinde>
 
-<Gemeinde xml:id='51'>
+<Gemeinde xml:id="51">
 <Name>Wiehl </Name>
-<Gaesteanzahl veraenderung='+8,1' einheit='Prozent'>25991</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>2</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="+8,1" einheit="Prozent">25991</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">2</Aufenthaltsdauer>
 <Text>1131 wurde Wiehl unter dem Namen Wila erstmals urkundlich erwaehnt.</Text>
 </Gemeinde>
 
-<Gemeinde xml:id='52'>
+<Gemeinde xml:id="52">
 <Name>Wipperfuerth </Name>
-<Gaesteanzahl veraenderung='+8,5' einheit='Prozent'>16756</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>2,2</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="+8,5" einheit="Prozent">16756</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">2,2</Aufenthaltsdauer>
 <Text>Wipperfuerth ist eine Hansestadt im Oberbergischen Kreis im Regierungsbezirk Koeln in Nordrhein-Westfalen (Deutschland) und aelteste Stadt im Bergischen Land.</Text>
 </Gemeinde>
 </Kreis>
 
 <Kreis>
 <KreisName> Rhein-Erft </KreisName>
-<Gemeinde xml:id='53'>
+<Gemeinde xml:id="53">
 <Name>Bedburg </Name>
-<Gaesteanzahl veraenderung='+9,3' einheit='Prozent'>13543</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>2.5</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="+9,3" einheit="Prozent">13543</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">2.5</Aufenthaltsdauer>
 <Text>Das Schloss Bedburg gilt als einer der groessten und baukuenstlerisch bedeutendsten Adelssitze im Rheinland.</Text>
 </Gemeinde>
 
-<Gemeinde xml:id='54'>
+<Gemeinde xml:id="54">
 <Name>Bergheim </Name>
-<Gaesteanzahl veraenderung='-2,4' einheit='Prozent'>17037</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>5.1</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="-2,4" einheit="Prozent">17037</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">5.1</Aufenthaltsdauer>
 <Text>Verschiedene Funde belegen fruehe Siedlungen auf Bergheimer Gebiet bereits um 4000 vor Chr., vor allem in den noerdlichen Stadtteilen.</Text>
 </Gemeinde>
 
-<Gemeinde xml:id='55'>
+<Gemeinde xml:id="55">
 <Name>Bruehl </Name>
-<Gaesteanzahl veraenderung='+3,9' einheit='Prozent'>179797</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>2.7</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="+3,9" einheit="Prozent">179797</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">2.7</Aufenthaltsdauer>
 <Text>Dank der zum Weltkulturerbe ernannten Schloesser Augustusburg und Falkenlust, dem Wasserschloss Schallenburg, der Villeseenlandschaft innerhalb des Kottenforsts sowie dem Freizeitpark Phantasialand zaehlt die Gemeinde zu den wichtigsten touristischen Zielen im Rheinland.</Text>
 </Gemeinde>
 
-<Gemeinde xml:id='56'>
+<Gemeinde xml:id="56">
 <Name>Elsdorf </Name>
-<Gaesteanzahl veraenderung='-11,7' einheit='Prozent'>3410</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>2.3</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="-11,7" einheit="Prozent">3410</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">2.3</Aufenthaltsdauer>
 <Text>Elsdorf ist eine laendliche Kommune 30 Kilometer westlich von Koeln zwischen Bergheim und Juelich im Rheinischen Braunkohlerevier.[2]</Text>
 </Gemeinde>
 
-<Gemeinde xml:id='57'>
+<Gemeinde xml:id="57">
 <Name>Erftstadt</Name>
-<Gaesteanzahl veraenderung='+11,3' einheit='Prozent'>18258</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>2</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="+11,3" einheit="Prozent">18258</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">2</Aufenthaltsdauer>
 <Text>Erftstadt liegt direkt am 880Â kmÂ² grossen Naturpark Rheinland (bis 2005 "Kottenforst-Ville"), dessen viele grosse und kleine Seen in der Ville ihre Entstehung dem Braunkohleabbau im Rheinischen Braunkohlerevier verdanken.</Text>
 </Gemeinde>
 
-<Gemeinde xml:id='58'>
+<Gemeinde xml:id="58">
 <Name>Frechen </Name>
-<Gaesteanzahl veraenderung='-2,8' einheit='Prozent'>58301</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>1.8</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="-2,8" einheit="Prozent">58301</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">1.8</Aufenthaltsdauer>
 <Text>Schon in der Spaetantike wurde in Frechen Quarzsand abgebaut, der zur Glasherstellung genutzt wurde.</Text>
 </Gemeinde>
 
-<Gemeinde xml:id='59'>
+<Gemeinde xml:id="59">
 <Name>Huerth </Name>
-<Gaesteanzahl veraenderung='+37,1' einheit='Prozent'>95683</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>3.8</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="+37,1" einheit="Prozent">95683</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">3.8</Aufenthaltsdauer>
 <Text>Huerth, nahe bei Koeln gelegen, war schon vor dem Ersten Weltkrieg fuer den Tourismus aufgeschlossen.</Text>
 </Gemeinde>
 
-<Gemeinde xml:id='60'>
+<Gemeinde xml:id="60">
 <Name>Kerpen </Name>
-<Gaesteanzahl veraenderung='+4,8' einheit='Prozent'>44119</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>2.5</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="+4,8" einheit="Prozent">44119</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">2.5</Aufenthaltsdauer>
 <Text>Kerpen ist mit 67.659 (2016) Einwohnern die groesste Stadt des Rhein-Erft-Kreises.</Text>
 </Gemeinde>
 
-<Gemeinde xml:id='61'>
+<Gemeinde xml:id="61">
 <Name>Pulheim </Name>
-<Gaesteanzahl veraenderung='+11,1' einheit='Prozent'>32542</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>1.9</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="+11,1" einheit="Prozent">32542</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">1.9</Aufenthaltsdauer>
 <Text>Pulheim liegt in einer offenen Ackerlandschaft im linksrheinischen Teil der Koelner Bucht.</Text>
 </Gemeinde>
 
-<Gemeinde xml:id='62'>
+<Gemeinde xml:id="62">
 <Name>Wesseling </Name>
-<Gaesteanzahl veraenderung='+12,6' einheit='Prozent'>17160</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>2.2</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="+12,6" einheit="Prozent">17160</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">2.2</Aufenthaltsdauer>
 <Text>Der Ortsname geht auf die 820 n. Chr. an das Kloster Montfaucon ueberschriebene Gutsherrschaft "Waslicia" zurueck. </Text>
 </Gemeinde>
 </Kreis>
 
 <Kreis>
 <KreisName> Rhein-Sieg </KreisName>
-<Gemeinde xml:id='63'>
+<Gemeinde xml:id="63">
 <Name>Alfter</Name>
-<Gaesteanzahl veraenderung='+17,1' einheit='Prozent'>14104</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>2.4</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="+17,1" einheit="Prozent">14104</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">2.4</Aufenthaltsdauer>
 <Text>Die Gemeinde Alfter liegt unmittelbar westlich der Bundesstadt Bonn am suedlichen Rand des Vorgebirges.</Text>
 </Gemeinde>
 
-<Gemeinde xml:id='64'>
+<Gemeinde xml:id="64">
 <Name>Bad Honnef </Name>
-<Gaesteanzahl veraenderung='+4,2' einheit='Prozent'>95332</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>2</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="+4,2" einheit="Prozent">95332</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">2</Aufenthaltsdauer>
 <Text>Bekannt geworden ist die ehemalige Kurstadt unter anderem durch ihren von Alexander von Humboldt verliehenen Ruf als "rheinisches Nizza" aufgrund des ganzjaehrigen milden Klimas.</Text>
 </Gemeinde>
 
-<Gemeinde xml:id='65'>
+<Gemeinde xml:id="65">
 <Name>Bornheim </Name>
-<Gaesteanzahl veraenderung='+3,8' einheit='Prozent'>25701</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>3.1</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="+3,8" einheit="Prozent">25701</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">3.1</Aufenthaltsdauer>
 <Text>Durch ihre zentrale Lage zwischen Koeln und Bonn gehoert sie zu den am staerksten wachsenden Staedten der Region und ist mittlerweile die drittgroesste Stadt des Rhein-Sieg-Kreises.</Text>
 </Gemeinde>
 
-<Gemeinde xml:id='66'>
+<Gemeinde xml:id="66">
 <Name>Eitorf</Name>
-<Gaesteanzahl veraenderung='-3,2' einheit='Prozent'>20213</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>1.8</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="-3,2" einheit="Prozent">20213</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">1.8</Aufenthaltsdauer>
 <Text>In Eitorf lebt eine grosse Population der Grossen Mausohrfledermaeuse. Etwa 200 Exemplare siedeln im Dachgeschoss des alten evangelischen Pfarrhauses, welches nach deren Entdeckung vom Naturschutzbund Deutschland baulich optimiert und angemietet wurde.</Text>
 </Gemeinde>
 
-<Gemeinde xml:id='67'>
+<Gemeinde xml:id="67">
 <Name>Hennef (Sieg) </Name>
-<Gaesteanzahl veraenderung='-6,5' einheit='Prozent'>47815</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>4.1</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="-6,5" einheit="Prozent">47815</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">4.1</Aufenthaltsdauer>
 <Text>Hennef (Sieg) ist eine Stadt im Rhein-Sieg-Kreis in Nordrhein-Westfalen mit rund 100 Ortschaften am Fluss Sieg. Daher traegt Hennef auch den Beinamen "Stadt der 100 Doerfer". </Text>
 </Gemeinde>
 
-<Gemeinde xml:id='68'>
+<Gemeinde xml:id="68">
 <Name>Koenigswinter </Name>
-<Gaesteanzahl veraenderung='-3,5' einheit='Prozent'>129872</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>1.8</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="-3,5" einheit="Prozent">129872</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">1.8</Aufenthaltsdauer>
 <Text>Die Stadt liegt zu Fuessen des Siebengebirges mit dem Petersberg, der als Standort des Bundesgaestehauses vielfach Staette von Konferenzen mit nationaler und internationaler Ausstrahlung wurde.</Text>
 </Gemeinde>
 
-<Gemeinde xml:id='69'>
+<Gemeinde xml:id="69">
 <Name>Lohmar</Name>
-<Gaesteanzahl veraenderung='+4,2' einheit='Prozent'>15668</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>1.5</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="+4,2" einheit="Prozent">15668</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">1.5</Aufenthaltsdauer>
 <Text>Im Lohmarer Stadtgebiet fuehren einige Bruecken ueber die Agger, die bei Touristen als Fotomotiv oder Fotoausgangspunkt beliebt sind.</Text>
 </Gemeinde>
 
-<Gemeinde xml:id='70'>
+<Gemeinde xml:id="70">
 <Name>Meckenheim </Name>
-<Gaesteanzahl veraenderung='+27,8' einheit='Prozent'>15395</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>1.9</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="+27,8" einheit="Prozent">15395</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">1.9</Aufenthaltsdauer>
 <Text>Meckenheim liegt in der Voreifel vor dem Ahrgebirge am Suedrand der Koelner Bucht, im linksrheinischen Teil des Rhein-Sieg-Kreises, etwa 20 Kilometer suedwestlich des Stadtzentrums von Bonn und unmittelbar an der Landesgrenze zu Rheinland-Pfalz im Sueden Nordrhein-Westfalens. </Text>
 </Gemeinde>
 
-<Gemeinde xml:id='71'>
+<Gemeinde xml:id="71">
 <Name>Much</Name>
-<Gaesteanzahl veraenderung='+1,8' einheit='Prozent'>24147</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>2.2</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="+1,8" einheit="Prozent">24147</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">2.2</Aufenthaltsdauer>
 <Text>Die Gemeinde Much besitzt mit insgesamt 221 Wegekreuzen, Kapellen und Heiligenhaeuschen aus vier Jahrhunderten eine Vielzahl erhaltenswerter christlicher Kulturgueter.</Text>
 </Gemeinde>
 
 
-<Gemeinde xml:id='72'>
+<Gemeinde xml:id="72">
 <Name>Neunkirchen-Seelscheid</Name>
-<Gaesteanzahl veraenderung='' einheit='Prozent'>.</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>.</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="" einheit="Prozent">.</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">.</Aufenthaltsdauer>
 <Text>.</Text>
 </Gemeinde>
 
 
-<Gemeinde xml:id='73'>
+<Gemeinde xml:id="73">
 <Name>Niederkassel </Name>
-<Gaesteanzahl veraenderung='-4,6' einheit='Prozent'>18099</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>1.7</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="-4,6" einheit="Prozent">18099</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">1.7</Aufenthaltsdauer>
 <Text>In fast komplett Niederkassel sind die Waelder unter Naturschutz gestellt.</Text>
 </Gemeinde>
 
 
-<Gemeinde xml:id='74'>
+<Gemeinde xml:id="74">
 <Name>Rheinbach </Name>
-<Gaesteanzahl veraenderung='+1,9' einheit='Prozent'>29251</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>1.6</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="+1,9" einheit="Prozent">29251</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">1.6</Aufenthaltsdauer>
 <Text>1957 wurde Rheinbach Bundeswehrstandort. Dazu wurde die Tomburg-Kaserne, die nach der beim Ortsteil Wormersdorf gelegenen Tomburg benannt ist, von den belgischen Streitkraeften uebernommen.</Text>
 </Gemeinde>
 
 
-<Gemeinde xml:id='75'>
+<Gemeinde xml:id="75">
 <Name>Ruppichteroth</Name>
-<Gaesteanzahl veraenderung='' einheit='Prozent'>.</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>.</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="" einheit="Prozent">.</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">.</Aufenthaltsdauer>
 <Text>.</Text>
 </Gemeinde>
 
 
-<Gemeinde xml:id='76'>
+<Gemeinde xml:id="76">
 <Name>Sankt Augustin </Name>
-<Gaesteanzahl veraenderung='-9,5' einheit='Prozent'>12162</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>1.8</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="-9,5" einheit="Prozent">12162</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">1.8</Aufenthaltsdauer>
 <Text>Die Gemeinde entstand bei der nordrhein-westfaelischen Gebietsreform 1969 und liegt im Verdichtungsraum Bonn. Namensgeber ist der Schutzpatron der ansaessigen Steyler Missionare, der heilige Augustinus (354â€“430). </Text>
 </Gemeinde>
 
 
-<Gemeinde xml:id='77'>
+<Gemeinde xml:id="77">
 <Name>Siegburg </Name>
-<Gaesteanzahl veraenderung='+6,3' einheit='Prozent'>55468</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>1.8</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="+6,3" einheit="Prozent">55468</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">1.8</Aufenthaltsdauer>
 <Text>Der Namensgeber der Stadt ist die Sieg, die westlich von Siegburg in den Rhein muendet.</Text>
 </Gemeinde>
 
 
-<Gemeinde xml:id='78'>
+<Gemeinde xml:id="78">
 <Name>Swisttal</Name>
-<Gaesteanzahl veraenderung='-12,4' einheit='Prozent'>12706</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>4.6</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="-12,4" einheit="Prozent">12706</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">4.6</Aufenthaltsdauer>
 <Text>In Swisttal findet Kulturarbeit dezentral statt. Jaehrlich wird die Morenhovener Lupe vergeben, ein anerkannter Kleinkunstpreis der oertlichen Initiative KuSS (Kultur und Spektakel im Swisttal), urspruenglich angeregt durch die Morenhovener Kreativitaetschule.</Text>
 </Gemeinde>
 
 
-<Gemeinde xml:id='79'>
+<Gemeinde xml:id="79">
 <Name>Troisdorf </Name>
-<Gaesteanzahl veraenderung='-4' einheit='Prozent'>56561</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>1.9</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="-4" einheit="Prozent">56561</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">1.9</Aufenthaltsdauer>
 <Text>Troisdorf ist die bevoelkerungsreichste Stadt im Rhein-Sieg-Kreis in Nordrhein-Westfalen und liegt rechtsrheinisch zwischen Koeln und der Bundesstadt Bonn.</Text>
 </Gemeinde>
 
 
-<Gemeinde xml:id='80'>
+<Gemeinde xml:id="80">
 <Name>Wachtberg</Name>
-<Gaesteanzahl veraenderung='-2,8' einheit='Prozent'>12175</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>1.9</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="-2,8" einheit="Prozent">12175</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">1.9</Aufenthaltsdauer>
 <Text>Durch ihre geografische Naehe zu Bonn haben in Wachtberg viele Menschen ihren Wohnsitz, die in Bundesbehoerden und in Bonn ansaessigen Unternehmen taetig sind.</Text>
 </Gemeinde>
 
 
-<Gemeinde xml:id='81'>
+<Gemeinde xml:id="81">
 <Name>Windeck</Name>
-<Gaesteanzahl veraenderung='-11,6' einheit='Prozent'>15090</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>2.4</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="-11,6" einheit="Prozent">15090</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">2.4</Aufenthaltsdauer>
 <Text>Die Gemeinde liegt im Naturpark Bergisches Land im Dreieck Koelnâ€“Bonnâ€“Siegen.</Text>
 </Gemeinde>
 </Kreis>
 
 <Kreis>
 <KreisName> Rheinisch-Bergischer Kreis </KreisName>
-<Gemeinde xml:id='82'>
+<Gemeinde xml:id="82">
 <Name>Bergisch Gladbach </Name>
-<Gaesteanzahl veraenderung='+8,9' einheit='Prozent'>83071</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>2</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="+8,9" einheit="Prozent">83071</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">2</Aufenthaltsdauer>
 <Text>Die heutige Stadt entstand zum 1.Â Januar 1975 im Rahmen der Gebietsreform in Nordrhein-Westfalen, als die alte Stadt Bergisch Gladbach durch das Koeln-Gesetz mit der bis dahin selbstaendigen Stadt Bensberg und der Ortschaft Schildgen, die zur Gemeinde Odenthal gehoerte, zur neuen Stadt Bergisch Gladbach vereinigt wurde.</Text>
 </Gemeinde>
 
-<Gemeinde xml:id='83'>
+<Gemeinde xml:id="83">
 <Name>Burscheid </Name>
-<Gaesteanzahl veraenderung='+5,6' einheit='Prozent'>10941</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>1.8</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="+5,6" einheit="Prozent">10941</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">1.8</Aufenthaltsdauer>
 <Text>Die Stadt ist gepraegt durch viele kleinere Ortschaften und durch ihr Stadtzentrum mit Marktplatz und Kirche. Burscheid wurde bereits 1175 erstmals urkundlich erwaehnt. </Text>
 </Gemeinde>
 
-<Gemeinde xml:id='84'>
+<Gemeinde xml:id="84">
 <Name>Kuerten</Name>
-<Gaesteanzahl veraenderung='-14' einheit='Prozent'>9091</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>2.4</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="-14" einheit="Prozent">9091</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">2.4</Aufenthaltsdauer>
 <Text>Unter dem Motto "Wir in Kuerten" begehen alle drei Jahre mehr als 50 Gruppen und Institutionen sowie Vertreter der italienischen Partnergemeinde ihr Vereinsfestival.</Text>
 </Gemeinde>
 
-<Gemeinde xml:id='85'>
+<Gemeinde xml:id="85">
 <Name>Leichlingen (Rhld.) </Name>
-<Gaesteanzahl veraenderung='-6,3' einheit='Prozent'>14504</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>8.7</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="-6,3" einheit="Prozent">14504</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">8.7</Aufenthaltsdauer>
 <Text>Leichlingen liegt im noerdlichen Zipfel des Rheinisch-Bergischen Kreises zwischen den Ballungskernen Koeln, Leverkusen und Duesseldorf, mit fliessender Stadtgrenze zu Solingen, am Rande des Bergischen Landes in Mittelgebirgslandschaft. Es wird wegen seiner Obstplantagen auch Bluetenstadt genannt.</Text>
 </Gemeinde>
 
-<Gemeinde xml:id='86'>
+<Gemeinde xml:id="86">
 <Name>Odenthal</Name>
-<Gaesteanzahl veraenderung='+22,4' einheit='Prozent'>21723</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>1.8</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="+22,4" einheit="Prozent">21723</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">1.8</Aufenthaltsdauer>
 <Text>Odenthal liegt am westlichen Rand des Bergischen Landes und ist gepraegt durch seine Waelder. Der bedeutendste Fluss im Gemeindegebiet ist die Dhuenn.</Text>
 </Gemeinde>
 
-<Gemeinde xml:id='87'>
+<Gemeinde xml:id="87">
 <Name>Overath</Name>
-<Gaesteanzahl veraenderung='+6,6' einheit='Prozent'>16694</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>2</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="+6,6" einheit="Prozent">16694</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">2</Aufenthaltsdauer>
 <Text>Die Ortschaft wurde im Jahre 1060 erstmals erwaehnt. </Text>
 </Gemeinde>
 
-<Gemeinde xml:id='88'>
+<Gemeinde xml:id="88">
 <Name>Roesrath</Name>
-<Gaesteanzahl veraenderung='-1' einheit='Prozent'>23107</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>1.8</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="-1" einheit="Prozent">23107</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">1.8</Aufenthaltsdauer>
 <Text>Im offiziellen Logo der Stadt findet sich die Silhouette des Torhauses von Schloss Eulenbroich. Das Logo soll Roesrath als ein "Tor zum Bergischen Land" symbolisieren.</Text>
 </Gemeinde>
 
-<Gemeinde xml:id='89'>
+<Gemeinde xml:id="89">
 <Name>Wermelskirchen </Name>
-<Gaesteanzahl veraenderung='0' einheit='Prozent'>39658</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>1.8</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="0" einheit="Prozent">39658</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">1.8</Aufenthaltsdauer>
 <Text>Die Grosse Dhuenntalsperre, groesste Trinkwassertalsperre im Westen Deutschlands, liegt teilweise auf Wermelskirchener Stadtgebiet. </Text>
 </Gemeinde>
 </Kreis>
 
 <Kreis>
 <KreisName> Staedteregion Aachen </KreisName>
-<Gemeinde xml:id='90'>
+<Gemeinde xml:id="90">
 <Name>Aachen</Name>
-<Gaesteanzahl veraenderung='+4,1' einheit='Prozent'>511268</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>1.9</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="+4,1" einheit="Prozent">511268</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">1.9</Aufenthaltsdauer>
 <Text>Die Stadt ist Bischofssitz des Bistums Aachen und Austragungsort des alljaehrlich stattfindenden Reitsport-Turniers CHIO Aachen.</Text>
 </Gemeinde>
 
-<Gemeinde xml:id='91'>
+<Gemeinde xml:id="91">
 <Name>Asdorf</Name>
-<Gaesteanzahl veraenderung='+7,8' einheit='Prozent'>8057</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>2.3</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="+7,8" einheit="Prozent">8057</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">2.3</Aufenthaltsdauer>
 <Text>Bis Ende des 20. Jahrhunderts war Alsdorf eine ausgesprochene Bergbaustadt. Die letzte Zeche wurde in den 1990er Jahren geschlossen.</Text>
 </Gemeinde>
 
-<Gemeinde xml:id='92'>
+<Gemeinde xml:id="92">
 <Name>Baesweiler</Name>
-<Gaesteanzahl veraenderung='-0,6' einheit='Prozent'>7083</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>1.9</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="-0,6" einheit="Prozent">7083</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">1.9</Aufenthaltsdauer>
 <Text>In Baesweiler befindet sich die ehemalige Wasserburg Burg Baesweiler, die zum Teil um 1550 errichtet wurde.</Text>
 </Gemeinde>
 
-<Gemeinde xml:id='93'>
+<Gemeinde xml:id="93">
 <Name>Eschweiler</Name>
-<Gaesteanzahl veraenderung='+26,4' einheit='Prozent'>28192</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>1.4</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="+26,4" einheit="Prozent">28192</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">1.4</Aufenthaltsdauer>
 <Text>Eschweiler ist eine rheinische Karnevalshochburg. Seit 2006 hat Eschweiler den drittgroessten Rosenmontagszug Deutschlands.</Text>
 </Gemeinde>
 
-<Gemeinde xml:id='94'>
+<Gemeinde xml:id="94">
 <Name>Herzogenrath</Name>
-<Gaesteanzahl veraenderung='+2,4' einheit='Prozent'>10844</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>2</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="+2,4" einheit="Prozent">10844</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">2</Aufenthaltsdauer>
 <Text>Die Stadt Herzogenrath liegt noch im Ãœbergangsbereich zwischen Eifel/Rheinischem Schiefergebirge und niederrheinischer Tiefebene.</Text>
 </Gemeinde>
 
-<Gemeinde xml:id='95'>
+<Gemeinde xml:id="95">
 <Name>Monschau</Name>
-<Gaesteanzahl veraenderung='-2,2' einheit='Prozent'>79690</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>2</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="-2,2" einheit="Prozent">79690</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">2</Aufenthaltsdauer>
 <Text>Die Stadt liegt zwischen den Berghaengen des Naturparks Hohes Venn-Eifel in der Rureifel. Sehenswert ist vor allem das Rote Haus, der ehemalige Stammsitz der Textilindustriellen-Familie Scheibler</Text>
 </Gemeinde>
 
-<Gemeinde xml:id='96'>
+<Gemeinde xml:id="96">
 <Name>Roetgen</Name>
-<Gaesteanzahl veraenderung='+8' einheit='Prozent'>8735</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>2.3</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="+8" einheit="Prozent">8735</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">2.3</Aufenthaltsdauer>
 <Text>Seit dem 27. November 2012 traegt die Gemeinde offiziell den Titel Tor zur Eifel.</Text>
 </Gemeinde>
 
-<Gemeinde xml:id='97'>
+<Gemeinde xml:id="97">
 <Name>Simmerath</Name>
-<Gaesteanzahl veraenderung='+4,4' einheit='Prozent'>64083</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>2.8</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="+4,4" einheit="Prozent">64083</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">2.8</Aufenthaltsdauer>
 <Text>Die Gegend um Simmerath war schon zur roemischen Kaiserzeit besiedelt.</Text>
 </Gemeinde>
 
-<Gemeinde xml:id='98'>
+<Gemeinde xml:id="98">
 <Name>Stolberg (Rhld.)</Name>
-<Gaesteanzahl veraenderung='-5,5' einheit='Prozent'>21259</Gaesteanzahl>
-
-<Aufenthaltsdauer einheit='Tage'>2</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="-5,5" einheit="Prozent">21259</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">2</Aufenthaltsdauer>
 <Text>Der Name der Stadt stammt von der inmitten der Stolberger Altstadt gelegenen Burg Stolberg, bei der die Urspruenge des Ortes liegen und die das Wahrzeichen der Stadt ist.</Text>
 </Gemeinde>
 
-<Gemeinde xml:id='99'>
+<Gemeinde xml:id="99">
 <Name>Wuerselen</Name>
-<Gaesteanzahl veraenderung='+5,9' einheit='Prozent'>25151</Gaesteanzahl>
-<Aufenthaltsdauer einheit='Tage'>2</Aufenthaltsdauer>
+<Gaesteanzahl veraenderung="+5,9" einheit="Prozent">25151</Gaesteanzahl>
+<Aufenthaltsdauer einheit="Tage">2</Aufenthaltsdauer>
 <Text>Wuerselen ist Sitz von Behoerden der Staedteregion Aachen und mehrerer grosser Unternehmen.</Text>
 </Gemeinde>
-
 </Kreis>
-
 </Regierungsbezirk>

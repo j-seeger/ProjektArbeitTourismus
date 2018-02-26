@@ -4,10 +4,18 @@ CONFIG -= app_bundle
 CONFIG -= qt
 
 SOURCES += main.cpp \
-    dtdlib.cpp
+    koordinatenlib.cpp \
+    datenlib.cpp \
+    dtdlib.cpp \
+    datenattlib.cpp
 
-HEADERS += \
-    dtd.h
+DISTFILES += \
+    Koordinaten.txt \
+    Daten.dtd \
+    daten.dat \
+    KoordinatenNeu.txt \
+    Daten.xml
+
         data.path = $$OUT_PWD/
 
         data.files += $$PWD/*.dat
@@ -19,3 +27,10 @@ HEADERS += \
         data.files += $$PWD/*.txt
 
         INSTALLS += data
+
+HEADERS += \
+    daten.h \
+    koordinaten.h \
+    datendtd.h \
+    datenatt.h
+
