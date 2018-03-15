@@ -1,25 +1,26 @@
-<!Element Regierungsbezirk (BezirkName, Kreis+)>
-<!Element BezirkName (#PCDATA)>
-<!Element Kreis (KreisName, Gemeinde+)>
-<!Element KreisName (#PCDATA)>
-<!Element Gemeinde (Daten+, Geografie+)>
-<!Attlist Gemeinde
+<!ELEMENT Regierungsbezirk (BezirkName,Kreis)>
+<!ELEMENT BezirkName (#PCDATA)>
+<!ELEMENT Kreis (KreisName,Gemeinde)>
+<!ELEMENT KreisName (#PCDATA)>
+<!ELEMENT Gemeinde (Daten,Geografie)>
+<!ATTLIST Gemeinde
         xml:id CDATA #REQUIRED
->
-<!Element Daten (Name, Gaesteanzahl, Aufenthaltsdauer, Text)>
-<!Element Name (#PCDATA)>
-<!Element Gaesteanzahl (#PCDATA)>
-<!Attlist Gaesteanzahl
+        >
+<!ELEMENT Daten (Name,Gaesteanzahl,Aufenthaltsdauer,Text)>
+<!ELEMENT Name (#PCDATA)>
+<!ELEMENT Gaesteanzahl (#PCDATA)>
+<!ATTLIST Gaesteanzahl
         veraenderung CDATA #REQUIRED
         einheit CDATA #REQUIRED
->
-<!Element Aufenthaltsdauer (#PCDATA)>
-<!Attlist Aufenthaltsdauer
+        >
+<!ELEMENT Aufenthaltsdauer (#PCDATA)>
+<!ATTLIST Aufenthaltsdauer
         einheit CDATA #REQUIRED
+        >
+<!ELEMENT Text (#PCDATA)>
+<!ELEMENT Geografie (Koordinaten)>
+<!ELEMENT Koordinaten (#PCDATA)>
+<!ATTLIST Koordinaten
+        bundesland CDATA #REQUIRED
 >
-<!Element Text (#PCDATA)>
-<!Element Geografie (Koordinaten)>
-<!Element Koordinaten (#PCDATA)>
-<!Attlist Koordinaten
-          bundesland CDATA #REQUIRED
->
+
