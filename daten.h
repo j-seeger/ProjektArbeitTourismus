@@ -17,10 +17,13 @@ public:
     void druckeEinruecker(int en, ofstream &datei);
     int getXml(ifstream &datei, ClgetDtd*element, ClgetDtd *wurzel);
     ClgetAttlist att;
-//    ClSuche search;
-    void suche(char category[10], char search[100]);
+
+    int suche(char category[10], char search[100], int x);
     void druckeSuche();
-    //ClnewXml convert;
+    int x;
+
+
+
 
 
 private:
@@ -31,4 +34,7 @@ private:
     ClgetXml *tagChild;
     ClgetXml *tagSibling;
     char *inhaltTag;
+
+
+
 };

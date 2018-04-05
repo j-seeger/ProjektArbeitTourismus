@@ -4,28 +4,26 @@ using namespace std;
 #include <string.h>
 #include <daten.h>
 
-void ClgetXml::suche(char category[], char search[])
+int ClgetXml::suche(char category[], char search[], int x)
 {
    /* cout << category << " und "<< search<<endl; --> Test ob Daten übergeben werden - funktioniert*/
+    if (x==1)return x;
     if (strcmp(name(),category)==0)
     {
         if (strcmp(inhalt(),search)==0)
         {
-        cout << "Zur Kategorie: "<< category<< " und der Eingabe: "<< search << " wurden diese Ergebnisse gefunden: "<<endl;
+        cout << "Zur Kategorie: '"<< category<< "' und der Eingabe: '"<< search << "' wurden diese Ergebnisse gefunden: "<<endl;
         druckeSuche();
+        x=1;
+        return x;
         }
-
-    }
-
-    //else cout<<"Fehler"; // Fehler kommt ganz oft
-
-    if (tagChild!=NULL)tagChild->suche(category,search);
-    if (tagSibling!=NULL)tagSibling->suche(category,search);
+      }
 
 
+    if (tagChild!=NULL)x=tagChild->suche(category,search,x); //x= übergibt den return-wert an die anderen Rekursionsschleifen
+    if (tagSibling!=NULL)x=tagSibling->suche(category,search,x);
+    return x; //stellt sicher, dass returnwert von Childs und Siblings zurückgegeben wird
 }
-
-
 
 
 void ClgetXml::druckeSuche()
@@ -41,3 +39,5 @@ void ClgetXml::druckeSuche()
    if (tagChild!=NULL)tagChild->druckeSuche();
    if (tagSibling!=NULL)tagSibling->druckeSuche();
 }
+
+
