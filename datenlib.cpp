@@ -183,7 +183,7 @@ void ClgetXml::druckeTagEbene(int ebene)
 {
     while (ebene>0)
     {
-        cout << "   ";
+        cout << " |";
         ebene = ebene -1;
     }
 }
