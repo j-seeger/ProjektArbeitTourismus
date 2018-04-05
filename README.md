@@ -12,4 +12,7 @@ In der TXT-Datei stehen zusätzlich die Koordinaten sowie das Bundesland. Die Txt
 Über die Auswahl "Konvertieren" im Menü wird eine neue XML-Datei erstellt, die sowohl die Daten als auch die Koordinaten enthält. Die nötigen Funktionen dazu stehen in der daten.lib und im daten.h.
 Mit der Suche kann nach einzelnen Kategorien und darin enthaltenen Inhalten gesucht werden. Die nötigen Funktionen dazu stehen in der suchelib.cpp und sind im daten.h definiert.
 
+Mein Programm ist abgelegt in meinem Repository 'ProjektArbeitTourismus' (https://github.com/j-seeger/ProjektArbeitTourismus).
+
+
 
