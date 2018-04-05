@@ -2,11 +2,10 @@
 <!ELEMENT BezirkName (#PCDATA)>
 <!ELEMENT Kreis (KreisName,Gemeinde)>
 <!ELEMENT KreisName (#PCDATA)>
-<!ELEMENT Gemeinde (Daten,Geografie)>
+<!ELEMENT Gemeinde (Name,Gaesteanzahl,Aufenthaltsdauer,Text)>
 <!ATTLIST Gemeinde
-        xml:id CDATA #REQUIRED
+    id CDATA #REQUIRED
         >
-<!ELEMENT Daten (Name,Gaesteanzahl,Aufenthaltsdauer,Text)>
 <!ELEMENT Name (#PCDATA)>
 <!ELEMENT Gaesteanzahl (#PCDATA)>
 <!ATTLIST Gaesteanzahl
@@ -18,9 +17,5 @@
         einheit CDATA #REQUIRED
         >
 <!ELEMENT Text (#PCDATA)>
-<!ELEMENT Geografie (Koordinaten)>
-<!ELEMENT Koordinaten (#PCDATA)>
-<!ATTLIST Koordinaten
-        bundesland CDATA #REQUIRED
->
+
 
