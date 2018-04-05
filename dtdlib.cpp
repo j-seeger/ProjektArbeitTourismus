@@ -4,6 +4,16 @@ using namespace std;
 #include <string.h>
 #include "datendtd.h"
 
+
+ClgetDtd::ClgetDtd(char*string)
+{
+zahl=0;
+zahlAttribute=0;
+strcpy(name,string);
+status=frei;
+naechstes=NULL;
+}
+
 ClgetDtd * ClgetDtd::verarbeite(ifstream &datei)
 {
 char puffer [1000];
@@ -49,7 +59,7 @@ for (datei.get(zeichen);!datei.eof();datei.get(zeichen))
                             zustand=abhaengigElement;
                             break;
                 case attribut:
-                            if (wurzel==NULL) jetzt=NULL;
+                            if (wurzel==NULL) neu=NULL;
                             else neu=wurzel->sucheElement(puffer,wurzel);
                             if (neu==NULL) zustand=noise;
                             else
@@ -101,15 +111,6 @@ for (datei.get(zeichen);!datei.eof();datei.get(zeichen))
 return wurzel;
 }
 
-
-ClgetDtd::ClgetDtd(char*string)
-{
-zahl=0;
-zahlAttribute=0;
-strcpy(name,string);
-status=frei;
-naechstes=NULL;
-}
 
 void ClgetDtd::addTag(char*string)
 {
@@ -163,6 +164,16 @@ return sucheElement(suche,element->naechstes);
 int ClgetDtd::elementIstErlaubt(char *name)
 {
     for (int i=0; i<zahl;i++)
+
         if(!strcmp(name,tags[i]))return i;
-    return -1;
+         return -1;
+}
+int ClgetDtd::attributeIstErlaubt(
+char                            *name)
+{
+for (int i=0;i<zahlAttribute;i++)
+    if (!strcmp(name,attributes[i])) return i;
+
+return -1;
+
 }
