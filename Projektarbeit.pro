@@ -7,7 +7,8 @@ SOURCES += main.cpp \
     koordinatenlib.cpp \
     datenlib.cpp \
     dtdlib.cpp \
-    datenattlib.cpp
+    datenattlib.cpp \
+    suchelib.cpp
 
 DISTFILES += \
     Koordinaten.txt \

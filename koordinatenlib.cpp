@@ -30,19 +30,15 @@ int ClKoordinaten::getTxt(ifstream &datei){
          if (zustand == ID){
              zustand = Land;
              puffer[zaehler] = '\0';
-
              identification[zahl]=new char[zaehler+1];
              strcpy(identification[zahl],puffer);
-
              zaehler = 0;
          }
          else if (zustand == Land){
              zustand = Koordinaten;
              puffer [zaehler] = '\0';
-
              attName[zahl]=new char [zaehler +1];
              strcpy(attName[zahl],puffer);
-
              zaehler = 0;
 
          }
@@ -50,18 +46,16 @@ int ClKoordinaten::getTxt(ifstream &datei){
      case '\n':
          zustand = ID;
          puffer [zaehler] = '\0';
-
          tagInhalt[zahl]=new char [zaehler+1];
          strcpy(tagInhalt[zahl],puffer);
-
-           zaehler = 0;
+          zaehler = 0;
           zahl++;
+        break;
 
-break;
      default:
      puffer[zaehler] = zeichen;
      zaehler++;
-       break;
+      break;
 }
 }
  return 0;
@@ -75,7 +69,9 @@ void ClKoordinaten::druckeTxt(){
 
     for (int i=0; i<getZahl();i++)
     {
-        cout << "ID: "<< getID(i)<< " Land: "<< getAttribut(i) << " Koordinaten: "<< getTagInhalt(i)<<endl;
+
+       cout << "ID: "<< getID(i)<< " Land: "<< getAttribut(i) << " Koordinaten: "<< getTagInhalt(i)<<endl;
+
     }
 
 

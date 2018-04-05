@@ -5,8 +5,7 @@ using namespace std;
 #include <datenatt.h>
 
 
-int ClgetAttlist::getAttlist(
-char                    *eingabe)
+int ClgetAttlist::getAttlist(char *eingabe, ClgetDtd *element)
 {
 char puffer[1000];
 int zaehler;
@@ -39,7 +38,10 @@ for (zaehler=0,zustand=inName,anzahlatt=0;*eingabe!='\0';
             {
             zustand=erwarteAtributWert;
             puffer [zaehler]='\0';
-            //cout << "attributname: "<< puffer << endl;
+
+            if (element->attributeIstErlaubt(puffer)<0)
+            cout << endl << "Das Attribut " << puffer << " ist hier nicht erlaubt" << endl;
+
             attname[anzahlatt] = new char[zaehler+1];
             strcpy(attname[anzahlatt],puffer);
             zaehler =0;

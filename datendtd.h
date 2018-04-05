@@ -19,6 +19,7 @@ public:
     void setNext(ClgetDtd *neu) { naechstes = neu; }
     ClgetDtd *sucheElement (char *suche, ClgetDtd *element);
     int elementIstErlaubt (char *name);
+    int attributeIstErlaubt(char *name);
 
 private:
   int zahl;
